@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Rathawut-l/hapi-rwneo4j#readme",
   "dependencies": {
-    "neo4j-driver": "^1.0.2"
+    "neo4j-driver": "^1.0.4"
   }
 }
