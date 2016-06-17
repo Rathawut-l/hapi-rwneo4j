@@ -1,6 +1,6 @@
 {
   "name": "hapi-rwneo4j",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a Hapi module for storing neo4j session to use all around app by Rathawut",
   "main": "lib/index.js",
   "scripts": {
